@@ -32,7 +32,6 @@
 ## 使用している製品・プロジェクト
 
 * [ArcGIS for Desktop](https://desktop.arcgis.com/ja/)
-* [ArcGIS for Developers](https://developers.arcgis.com/en/)
 
 ## ライセンス
 Copyright 2015 Esri Japan Corporation.
